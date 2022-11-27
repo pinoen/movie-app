@@ -1,0 +1,11 @@
+.headerContainer{
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.buttonsContainer{
+  display: flex;
+  gap: 10px;
+}
